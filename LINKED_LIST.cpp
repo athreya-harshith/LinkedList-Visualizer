@@ -2,7 +2,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
-#include<GL/glut.h>
+#include<GL/glut.h>//library changes for mac , 
+//mind the changes
 
 // Function prototype section.
 void display();
